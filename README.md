@@ -1,7 +1,7 @@
 ### Hi I'm Ronak. 👋
 
 ## Electronics Engineer | ML Enthusiast
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Data Science Workflow 
 - 🌱 I’m currently learning Deep Learning and neuro-science 
