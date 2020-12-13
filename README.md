@@ -3,8 +3,8 @@
 ## Electronics Engineer | ML Enthusiast
 
 
-- 🔭 I’m currently working on Data Science Workflow 
-- 🌱 I’m currently learning Deep Learning and neuro-science 
+- 🔭 Hungry For Data!!!!!!
+- 🌱 Data is the new science. Big Data holds the answers. 
 - 💬 Ask me about Python, ReactJs and Automation
 - 📫 How to reach me: https://www.linkedin.com/in/ronak-sengupta-803b98194/
 - 📫 My Resume: [Ronak Resume.pdf](https://github.com/r1999-ron/r1999-ron/files/5256674/Ronak.Resume.pdf)
