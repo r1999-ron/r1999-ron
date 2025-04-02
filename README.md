@@ -53,7 +53,7 @@
 
 ![Ronak's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=r1999-ron&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r1999-ron&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1999-ron&theme=transparent)](https://github.com/r1999-ron)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1999-ron&theme=radical)](https://github.com/r1999-ron)
 
 ---
 
