@@ -9,8 +9,8 @@
 
 🌟 **About Me**
 - 🔭 Software Engineer at **Apple Inc.**
-- 🚀 Passionate about **Building Scalable & High-Performance Systems, Distributed Systems, and AI**
-- 🎯 Currently learning **Apache Kafka & Gen AI**
+- 🚀 Passionate about **building scalable & high-performance systems, Distributed Systems, and AI**
+- 🎯 Currently learning **Apache Kafka & Generative AI**
 - 📚 Love to write about tech on **[Medium](https://medium.com/@ronaksengupta)**
 
 ---
@@ -24,6 +24,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-0669E1.svg?style=flat-square&logo=apache&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -38,6 +39,8 @@
 ---
 
 🚀 **Projects & Open Source Contributions**
+
+🔹 [**DocuSeek - AI Powered Enterprise Search & Automation**](https://github.com/r1999-ron/Launchpad-AI-Hackathon) - Launchpad AI Hackathon Project
 
 🔹 [**Akka HTTP Load Balancer**](https://github.com/r1999-ron/akka-http-load-balancer) - Load balancer using Akka HTTP & Akka Actors
 
