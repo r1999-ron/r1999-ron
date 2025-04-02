@@ -1,9 +1,11 @@
+![Ronak Sengupta Banner](https://your-banner-image-url.com)
 
 ### Hi there, I'm Ronak Sengupta! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/r1999-ron?style=social)](https://github.com/r1999-ron)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-s-803b98194/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ronaksengupta)
+![Profile Views](https://komarev.com/ghpvc/?username=r1999-ron&color=blue&style=flat-square)
 
 ---
 
@@ -12,6 +14,20 @@
 - 🚀 Passionate about **building scalable & high-performance systems, distributed systems, and AI**
 - 🎯 Currently learning **Apache Kafka & Generative AI**
 - 📚 Love to write about tech on **[Medium](https://medium.com/@ronaksengupta)**
+
+---
+
+🚀 **Currently Working On**
+- 🔄 Improving data ingestion efficiency at **Apple Maps**
+- 📊 Exploring real-time data streaming with **Kafka**
+- 📚 Experimenting with **Generative AI** use cases
+
+---
+
+🏆 **Achievements & Certifications**
+- 🏆 **Winner** - [Launchpad AI Hackathon](https://github.com/r1999-ron/Launchpad-AI-Hackathon)
+- 🏅 **Certificate of Recognition(Blue Belt Award), 2022 - HighRadius Technologies**
+- 🥇 **Star Team Award For Quarter 2, 2021 - HighRadius Technologies**
 
 ---
 
@@ -29,11 +45,9 @@
 
 📈 **GitHub Stats**
 
-![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1999-ron&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r1999-ron&layout=compact&theme=dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1999-ron&theme=dark)](https://github.com/r1999-ron)
+![Ronak's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=r1999-ron&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r1999-ron&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1999-ron&theme=radical)](https://github.com/r1999-ron)
 
 ---
 
