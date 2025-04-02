@@ -24,6 +24,10 @@
 - 📊 Exploring real-time data streaming with **Kafka**
 - 📚 Experimenting with **Generative AI** use cases
 
+📖 **Latest Blog Posts**  
+- [Building a Scalable Load Balancer with Akka HTTP](https://medium.com/@ronaksengupta)
+- [Kafka: The Backbone of Event-Driven Architectures](https://medium.com/@ronaksengupta)
+
 ---
 
 🏆 **Achievements & Certifications**
