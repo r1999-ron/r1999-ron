@@ -56,7 +56,7 @@
 📫 **Connect with Me**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ronak.sengupta99@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ronaks99)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://x.com/RonakSengupta99)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ronaksengupta)
 
 💡 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House 😃
