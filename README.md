@@ -1,4 +1,4 @@
-![Ronak Sengupta Banner](https://i.imgur.com/azHs4W6.png)
+<img src="https://i.imgur.com/azHs4W6.png" alt="Ronak Sengupta Banner" width="100%" height="200px">
 
 ### Hi there, I'm Ronak Sengupta! 👋
 
