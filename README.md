@@ -2,15 +2,15 @@
 ### Hi there, I'm Ronak Sengupta! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/r1999-ron?style=social)](https://github.com/r1999-ron)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-sengupta99/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-s-803b98194/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ronaksengupta)
 
 ---
 
 🌟 **About Me**
-- 🔭 Software Engineer at **Apple Inc.** (via Payoda Technologies)
-- 🚀 Passionate about **Backend Development, Distributed Systems, and Data Engineering**
-- 🎯 Currently learning **Apache Kafka & Advanced Scala**
+- 🔭 Software Engineer at **Apple Inc.**
+- 🚀 Passionate about **Building Scalable & High-Performance Systems, Distributed Systems, and AI**
+- 🎯 Currently learning **Apache Kafka & Gen AI**
 - 📚 Love to write about tech on **[Medium](https://medium.com/@ronaksengupta)**
 
 ---
