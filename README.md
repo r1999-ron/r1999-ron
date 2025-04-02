@@ -1,5 +1,3 @@
-![Ronak Sengupta Banner](https://your-banner-image-url.com)
-
 ### Hi there, I'm Ronak Sengupta! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/r1999-ron?style=social)](https://github.com/r1999-ron)
