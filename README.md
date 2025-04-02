@@ -54,7 +54,7 @@
 ![Ronak's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=r1999-ron&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r1999-ron&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1999-ron&theme=default#gh-light-mode-only)](https://github.com/r1999-ron#gh-light-mode-only)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1999-ron&theme=dark#gh-dark-mode-only)](https://github.com/r1999-ron#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1999-ron&theme=transparent)](https://github.com/r1999-ron)
 
 ---
 
