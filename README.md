@@ -61,7 +61,7 @@
 
 🔹 [**Chat App**](https://github.com/r1999-ron/chat-app-repo) - A simple chat application using Scala
 
-🔹 [**User Authentication Service**](https://github.com/r1999-ron/user-auth-service) - A full-fledged authentication system in HTML/JS
+🔹 [**AI-Enabled FinTech B2B Invoice Management Application**](https://github.com/r1999-ron/B2B-project) - Fintech Application
 
 ---
 
