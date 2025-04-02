@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/azHs4W6.png" alt="Ronak Sengupta Banner" width="100%" style="border-radius: 10px;">
+<img src="https://i.imgur.com/azHs4W6.png" alt="Ronak Sengupta Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;">
 
 ### Hi there, I'm Ronak Sengupta! 👋
 
