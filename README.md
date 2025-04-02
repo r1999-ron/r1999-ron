@@ -25,7 +25,7 @@
 ---
 
 🏆 **Achievements & Certifications**
-- 🏆 **Winner** - [Launchpad AI Hackathon](https://github.com/r1999-ron/Launchpad-AI-Hackathon)
+- 🏆 **Hackathon Finalist** - [Launchpad AI Hackathon](https://github.com/r1999-ron/Launchpad-AI-Hackathon)
 - 🏅 **Certificate of Recognition(Blue Belt Award), 2022 - HighRadius Technologies**
 - 🥇 **Star Team Award For Quarter 2, 2021 - HighRadius Technologies**
 
