@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/azHs4W6.png" alt="Ronak Sengupta Banner" height="auto"/>
+  <img src="https://i.imgur.com/azHs4W6.png" alt="Ronak Sengupta Banner"/>
 </p>
 
 ### Hi there, I'm Ronak Sengupta! 👋
