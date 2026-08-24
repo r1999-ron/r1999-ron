@@ -11,7 +11,7 @@
 ---
 
 🌟 **About Me**
-- 🔭 Software Engineer at **Apple Inc.**
+- 🔭 Software Engineer at **
 - 🚀 Passionate about **building scalable & high-performance systems, distributed systems, and AI**
 - 🎯 Currently learning **Apache Kafka & Generative AI**
 - 📚 Love to write about tech on **[Medium](https://medium.com/@ronaksengupta)**
