@@ -11,7 +11,7 @@
 ---
 
 🌟 **About Me**
-- 🔭 Software Engineer at **
+- 🔭 Senior Software Engineer
 - 🚀 Passionate about **building scalable & high-performance systems, distributed systems, and AI**
 - 🎯 Currently learning **Apache Kafka & Generative AI**
 - 📚 Love to write about tech on **[Medium](https://medium.com/@ronaksengupta)**
