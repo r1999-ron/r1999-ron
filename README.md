@@ -1,81 +1,40 @@
+<p align="center">
+  <img src="./assets/agent-flow.svg" alt="Animated data flow from signal to agent to action" width="100%">
+</p>
 
-  <img src="https://i.imgur.com/azHs4W6.png" alt="Ronak Sengupta Banner"/>
+<h1 align="center">Ronak Sengupta</h1>
 
-### Hi there, I'm Ronak Sengupta! 👋
+<p align="center"><strong>Senior Software Engineer · Agentic AI &amp; Distributed Systems</strong></p>
 
-[![GitHub followers](https://img.shields.io/github/followers/r1999-ron?style=social)](https://github.com/r1999-ron)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-s-803b98194/)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ronaksengupta)
-![Profile Views](https://komarev.com/ghpvc/?username=r1999-ron&color=blue&style=flat-square)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ronak-s-803b98194/">LinkedIn</a> ·
+  <a href="https://medium.com/@ronaksengupta">Medium</a> ·
+  <a href="https://x.com/RonakSengupta99">X</a> ·
+  <a href="mailto:ronaksengupta@gmail.com">Email</a>
+</p>
 
----
+I’m putting most of my hands-on work into **agentic AI** right now. I’m especially interested in what happens after the model responds, from tracking state across turns to extracting structured information that another service can use. My backend work includes improving data ingestion at Apple Maps and building with Scala, Java, and Akka.
 
-🌟 **About Me**
-- 🔭 Senior Software Engineer
-- 🚀 Passionate about **building scalable & high-performance systems, distributed systems, and AI**
-- 🎯 Currently learning **Apache Kafka & Generative AI**
-- 📚 Love to write about tech on **[Medium](https://medium.com/@ronaksengupta)**
+## Agentic AI
 
----
+| Project | What it does |
+| --- | --- |
+| **[Agentic Honeypot](https://github.com/r1999-ron/agentic-honeypot-ai)** | Uses a conversational agent to engage suspected scammers across multiple turns, detect red flags, and extract details such as callback numbers and payment IDs into structured fraud reports. |
+| **[DocuSeek](https://github.com/r1999-ron/Launchpad-AI-Hackathon)** | Explores AI-powered enterprise search and automation. Launchpad AI Hackathon finalist project. |
 
-🚀 **Currently Working On**
-- 🔄 Improving data ingestion efficiency at **Apple Maps**
-- 📊 Exploring real-time data streaming with **Kafka**
-- 📚 Experimenting with **Generative AI** use cases
+## Distributed systems
 
-📖 **Latest Blog Posts**  
-- [Building a Scalable Load Balancer with Akka HTTP](https://medium.com/@ronaksengupta)
-- [Kafka: The Backbone of Event-Driven Architectures](https://medium.com/@ronaksengupta)
+- **[Akka HTTP Load Balancer](https://github.com/r1999-ron/akka-http-load-balancer)** · Request routing with Akka HTTP and Akka Actors.
+- **[Memcached Server](https://github.com/r1999-ron/MemcachedServer)** · A Java implementation of Memcached.
+- **[API Rate Limiter](https://github.com/r1999-ron/APIRateLimiterDemo)** · A Java demo that rate-limits requests to a mathematical expression evaluator.
 
----
+**Stack** · Python, FastAPI, OpenAI API, Scala, Java, Akka, Kafka, PostgreSQL, AWS
 
-🏆 **Achievements & Certifications**
-- 🏆 **Hackathon Finalist** - [Launchpad AI Hackathon](https://github.com/r1999-ron/Launchpad-AI-Hackathon)
-- 🏅 **Certificate of Recognition(Blue Belt Award), 2022 - HighRadius Technologies**
-- 🥇 **Star Team Award For Quarter 2, 2021 - HighRadius Technologies**
+<details>
+<summary>More projects and recognition</summary>
 
----
+- [Scala Chat App](https://github.com/r1999-ron/chat-app-repo)
+- [AI-enabled B2B Invoice Management](https://github.com/r1999-ron/B2B-project)
+- HighRadius Technologies · Blue Belt Award (2022) and Star Team Award (Q2 2021)
 
-🛠️ **Tech Stack**
-
-![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000.svg?style=flat-square&logo=apache-kafka&logoColor=white)
-![Akka](https://img.shields.io/badge/Akka-3D76C3.svg?style=flat-square&logo=akka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
-
----
-
-📈 **GitHub Stats**
-
-![Ronak's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=r1999-ron&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r1999-ron&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1999-ron)](https://github.com/r1999-ron)
-
----
-
-🚀 **Projects & Open Source Contributions**
-
-🔹 [**DocuSeek - AI Powered Enterprise Search & Automation**](https://github.com/r1999-ron/Launchpad-AI-Hackathon) - Launchpad AI Hackathon Project
-
-🔹 [**Akka HTTP Load Balancer**](https://github.com/r1999-ron/akka-http-load-balancer) - Load balancer using Akka HTTP & Akka Actors
-
-🔹 [**Memcached Server**](https://github.com/r1999-ron/MemcachedServer) - Custom implementation of Memcached in Java
-
-🔹 [**API Rate Limiter**](https://github.com/r1999-ron/APIRateLimiterDemo) - Java-based API rate limiting tool
-
-🔹 [**Chat App**](https://github.com/r1999-ron/chat-app-repo) - A simple chat application using Scala
-
-🔹 [**AI-Enabled FinTech B2B Invoice Management Application**](https://github.com/r1999-ron/B2B-project) - Fintech Application
-
----
-
-📫 **Connect with Me**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ronaksengupta@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://x.com/RonakSengupta99)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ronaksengupta)
-
-💡 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House 😃
+</details>
