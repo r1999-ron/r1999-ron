@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="232" viewBox="0 0 960 232" role="img" aria-labelledby="title">
+  <title id="title">Signal flows through an agent into action</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#17132b"/>
+      <stop offset=".55" stop-color="#101426"/>
+      <stop offset="1" stop-color="#10262a"/>
+    </linearGradient>
+    <linearGradient id="wire">
+      <stop stop-color="#bc9aff"/>
+      <stop offset="1" stop-color="#6af5d2"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="1" fill="#aac0ef" opacity=".19"/>
+    </pattern>
+    <clipPath id="card"><rect width="960" height="232" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .packet { opacity: 0; animation: transmit 3.6s ease-in-out 1; }
+    .out { animation-delay: .65s; }
+    @keyframes transmit {
+      0%, 100% { opacity: 0; }
+      15%, 75% { opacity: 1; }
+      85%, 100% { transform: translateX(132px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .packet { animation: none; }
+    }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="960" height="232" fill="url(#background)"/>
+    <rect width="960" height="232" fill="url(#grid)"/>
+    <path d="M0 56h96l52 52h56m552 0h56l52-52h96M0 177h96l52-38h56m552 0h56l52 38h96" fill="none" stroke="url(#wire)" opacity=".25" stroke-width="2"/>
+    <path d="M300 116h134m92 0h134" stroke="url(#wire)" stroke-width="2"/>
+    <path d="m423 110 9 6-9 6m226-12 9 6-9 6" fill="none" stroke="#a4e9e2" stroke-width="2"/>
+    <circle class="packet" cx="301" cy="116" r="4" fill="#e3c9ff"/>
+    <circle class="packet out" cx="527" cy="116" r="4" fill="#98ffe7"/>
+    <g fill="#15172b" stroke-width="2">
+      <rect x="204" y="84" width="96" height="64" rx="14" stroke="#bda3ff"/>
+      <rect x="434" y="70" width="92" height="92" rx="21" stroke="#e0d7ff"/>
+      <rect x="660" y="84" width="96" height="64" rx="14" stroke="#70efcb"/>
+    </g>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="700" letter-spacing="3" text-anchor="middle">
+      <text x="252" y="186" fill="#d2bdff">SIGNAL</text>
+      <text x="480" y="186" fill="#f1eaff">AGENT</text>
+      <text x="708" y="186" fill="#a2ffe5">ACTION</text>
+    </g>
+    <g fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M229 116h12l6-12 8 24 6-12h14" stroke="#d2bdff"/>
+      <path d="m480 94 22 22-22 22-22-22z M480 108l8 8-8 8-8-8z" stroke="#ede2ff"/>
+      <path d="m694 116 9 9 19-19" stroke="#a2ffe5"/>
+    </g>
+    <rect x="1" y="1" width="958" height="230" rx="23" fill="none" stroke="#a8b3d8" opacity=".35" stroke-width="2"/>
+  </g>
+</svg>
